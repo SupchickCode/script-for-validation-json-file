@@ -1,0 +1,1 @@
+{"id": "e2d760c3-7e10-4464-ab22-7fda6b5e2562", "user_id": 370932, "event": "cmarker_created", "data": {"user_id": "bad user id", "cmarkers": [{"id": 40, "date": "2020-09-30", "slug": "meditation_today"}, {"id": 38, "date": "2020-10-01", "slug": "meditation_yesterday"}], "datetime": "2020-09-30T11:41:00.310984"}, "created_at": "2020-09-30T11:41:00.419404Z", "environment_id": 2}

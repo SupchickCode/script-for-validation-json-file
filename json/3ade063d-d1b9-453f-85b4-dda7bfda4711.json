@@ -1,0 +1,13 @@
+{
+    "id": "3ade063d-d1b9-453f-85b4-dda7bfda4711",
+    "user_id": 1111,
+    "event": "cmarker_calculated",
+    "data": {
+        "id": 111,
+        "cmarkers": [
+            "feel_sick"
+        ]
+    },
+    "created_at": "2020-09-07T21:52:34.698690Z",
+    "environment_id": 1
+}

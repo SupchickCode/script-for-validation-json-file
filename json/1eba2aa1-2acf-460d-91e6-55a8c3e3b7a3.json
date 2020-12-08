@@ -1,0 +1,28 @@
+{
+    "event": "label_selected",
+    "data": {
+        "id": null,
+        "rr_id": null,
+        "labels": [{
+            "slug": "flu",
+            "type": 2,
+            "color": {
+                "color": "#e83e35",
+                "label": "stress"
+            },
+            "name_en": "cold/flu",
+            "name_ru": "\u043f\u0440\u043e\u0441\u0442\u0443\u0434\u0430/\u0433\u0440\u0438\u043f\u043f",
+            "category": "health-body",
+            "type_stress": 2,
+            "is_custom_tag": false,
+            "property_where": null,
+            "property_arousal": null,
+            "property_pleasure": null,
+            "property_vitality": null,
+            "property_stability": null
+        }],
+        "timestamp": "2020-09-09T14:07:44"
+    },
+    "created_at": "2020-09-09T11:07:45.080214Z",
+    "environment_id": 2
+}

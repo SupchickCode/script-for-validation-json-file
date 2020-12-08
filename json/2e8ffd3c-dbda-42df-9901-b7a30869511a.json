@@ -1,0 +1,17 @@
+{
+    "id": "2e8ffd3c-dbda-42df-9901-b7a30869511a",
+    "user_id": 1222,
+    "event": "meditation_created",
+    "data": {
+        "pulse": 68.0,
+        "source": "Fitbit",
+        "duration": 300000.0,
+        "timestamp": "2020-09-28T20:20:40+03:00",
+        "unique_id": "ab036459-98e3-b8d2-0c8e-9319087b0cd7",
+        "start_time": "2020-09-28T20:15:40+03:00",
+        "finish_time": "2020-09-28T20:20:40+03:00",
+        "activity_name": "Meditation"
+    },
+    "created_at": "2020-09-29T23:43:23.126667Z",
+    "environment_id": 1
+}

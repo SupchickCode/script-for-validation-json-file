@@ -1,4 +1,4 @@
-# script-for-validation-json-life
+# script-for-validation-json-file
 
 Не забудьте установить нужные библиотеки в свое виртуально окружение.
 
